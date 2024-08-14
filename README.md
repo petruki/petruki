@@ -1,8 +1,4 @@
-Greetings!
-
-Sorry, no fancy landing page here with those gifs and animations - nothing against them by the way. 
-
-# Projects
+# Main Projects
 Find below a list of projects that I have been working on.
 
 | Name | Description | Status |
@@ -12,7 +8,7 @@ Find below a list of projects that I have been working on.
 | [Deno Module: Skimming](https://github.com/petruki/skimming) | Web scraping module for Deno | Active |
 | [Deno Module: Validator4Oak](https://github.com/petruki/validator4oak) | Middleware for Oak framework to validate and sanitize requests | Active |
 
-# Other repositories
+# Other Repositories
 Here are some other old repositories that I thought it would be nice to share. They are not actively maintained, but they are still valuable.
 
 | Name | Description | Status |
@@ -34,10 +30,8 @@ Not entirely related to my projects, but I think it's worth sharing some of the 
 | Book: Joy of Agility - Joshua Kerievsky | No Agile Frameworks or constrained practices here. Joshua shares amazing stories about agility as a base for responding gracefully to changes. |
 | [Podcast: Agile Bites](https://www.integrityinspired.com/agile-bites-podcast) | My go to podcast for Agile topics and misconcepts to rant about. |
 | [Author: Martin Fowler](https://martinfowler.com/) | Martin Fowler is a software engineer who has been writing about software development for a long time. His blog is a great source of knowledge. |
+| [Author: Ron Jeffries](https://ronjeffries.com/) | Ron Jeffries is one of the three founders of the Extreme Programming. His blog is a great source of knowledge for XP practitioners. |
 | [Blog: The Code Whisperer](https://blog.thecodewhisperer.com/) | J. B. Rainsberge publishes about Refactoring, TDD, and Clean Code. |
 | [YouTube: Continuous Delivery - Dave Farley](https://www.youtube.com/@ContinuousDelivery) | Dave Farley talks about Software Development with a focus on Continuous Delivery. A lot of great discussions with guests. |
 | [YouTube: Emily Bache](https://www.youtube.com/@EmilyBache-tech-coach) | Emily Bache talks about TDD and Refactoring. |
 | [YouTube: Mob Mentality Show](https://www.youtube.com/@mobmentalityshow) | Chris Lucian and Austin Chadwick discuss all things agile and product development from a mob programming perspective. |
-
-# Tech Stack
-It doesn't really matter. The goal is to solve problems and deliver value.
