@@ -14,6 +14,7 @@ Here are some other old repositories that I thought it would be nice to share. T
 | Name | Description | Status |
 | ---- | ----------- | ------ |
 | [Dijkstra Algorithm](https://github.com/petruki/dijkstra-algorithm) | Dijsktra Algorithm Sandbox | Maintenance |
+| [RESTql Utility](https://github.com/petruki/restql) | A powerful Java utility for dynamically filtering and extracting nested properties from complex objects | Maintenance |
 | [Page Replacement Algorithms](https://github.com/petruki/page-replacement-algorithm) | Page Replacement Algorithms Sandbox | Maintenance |
 | [JCPU Simulator](https://github.com/petruki/jcpu-simulator) | Java CPU Simulator terminal Sandbox - simulates multithreaded CPU | Maintenance |
 | [Game: Battleship](https://github.com/petruki/battleship-java) | Battleship game | Maintenance |
@@ -25,7 +26,7 @@ Not entirely related to my projects, but I think it's worth sharing some of the 
 | Name | Description |
 | ---- | ----------- |
 | Book: Modern Software Engineering - Dave Farley | This book is a must-read for anyone who wants to learn the importance of high-quality and maintainable software. |
-| Book: Clean Code - Robert C. Martin | Old but gold. Uncle Bob's book for those interested in writing better code. |
+| Book: Refactoring - Martin Fowler | A classic book on Refactoring that is a must-read for anyone who wants to learn how to write clean and maintainable code. |
 | Book: Escape Velocity - Doc Norton | Give yourself a chance to discover better ways to measure software development delivery. |
 | Book: Joy of Agility - Joshua Kerievsky | No Agile Frameworks or constrained practices here. Joshua shares amazing stories about agility as a base for responding gracefully to changes. |
 | [Podcast: Agile Bites](https://www.integrityinspired.com/agile-bites-podcast) | My go to podcast for Agile topics and misconcepts to rant about. |
