@@ -7,6 +7,7 @@ Find below a list of projects that I have been working on.
 | [Trackerforce](https://github.com/trackerforce) (4 repos) | Trackerforce is a platform focused on delivering Process Flow Assisted by Real-Time Decision Making | Maintenance |
 | [Deno Module: Skimming](https://github.com/petruki/skimming) | Web scraping module for Deno | Active |
 | [Deno Module: Validator4Oak](https://github.com/petruki/validator4oak) | Middleware for Oak framework to validate and sanitize requests | Active |
+| [dotPathQL](https://github.com/trackerforce/dot-path-ql?tab=readme-ov-file) | Java library for dynamically filtering and extracting properties from complex objects using dot-notation paths | Active |
 
 # Other Repositories
 Here are some other old repositories that I thought it would be nice to share. They are not actively maintained, but they are still valuable.
@@ -14,7 +15,6 @@ Here are some other old repositories that I thought it would be nice to share. T
 | Name | Description | Status |
 | ---- | ----------- | ------ |
 | [Dijkstra Algorithm](https://github.com/petruki/dijkstra-algorithm) | Dijsktra Algorithm Sandbox | Maintenance |
-| [RESTql Utility](https://github.com/petruki/restql) | A powerful Java utility for dynamically filtering and extracting nested properties from complex objects | Maintenance |
 | [Page Replacement Algorithms](https://github.com/petruki/page-replacement-algorithm) | Page Replacement Algorithms Sandbox | Maintenance |
 | [JCPU Simulator](https://github.com/petruki/jcpu-simulator) | Java CPU Simulator terminal Sandbox - simulates multithreaded CPU | Maintenance |
 | [Game: Battleship](https://github.com/petruki/battleship-java) | Battleship game | Maintenance |
