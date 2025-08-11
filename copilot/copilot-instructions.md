@@ -1,0 +1,18 @@
+Changes are applied incrementally and must follow the rules below for when:
+- New feature development (prompt starts with 'feat:'):
+  - Tests as first-class citizens. 
+    - Ignore compilation issues during test creation
+    - Tests should be written before the feature code.
+    - Move to next step once test is reviewed.
+  - The code must satisfy the tests from a top-down approach (interfaces to implementation details).
+    - Move to next step once the interface contract is reviewed.
+- Refactoring (prompt starts with 'refactor:'):
+  - No new features should be added or behavior changed.
+  - Focus on improving code quality, readability, and maintainability.
+- Reworking (prompt starts with 'rework:'):
+  - Similar to refactoring, but in this case, interfaces may change and the implementation details may be significantly altered.
+  - Must ensure the tests are written before the rework.
+  - Move to next step once the interface contract is reviewed.
+- Bug fixes (prompt starts with 'fix:'):
+  - Similar to new feature development, but the focus is on fixing existing issues.
+  - Ensure that the fix is covered by tests.
