@@ -16,7 +16,7 @@ When I am not creating trouble for myself, I do also contribute to other open-so
 | ---- | ----------- | ------ |
 | [Oak Server](https://github.com/oakserver) | A full-featured HTTP handler framework for Deno, Node, Bun and Cloudflare Workers | Bugfixes & Middleware development |
 | [DenoLib](https://github.com/denolib) | A community of Deno, for ported/new packages and extra documentations | Third-party module development |
-| [Open JDBC Proxy](https://github.com/Open-JDBC-Proxy) | A JDBC proxy suite for relational databases | Maintainer |
+| [Open J Proxy](https://github.com/Open-J-Proxy) | A JDBC Driver and Layer 7 Proxy Server to decouple applications from relational database connection management | Maintainer |
 
 # Other Repositories
 Here are some other old repositories that I thought it would be nice to share. They are not actively maintained, but they are still valuable.
