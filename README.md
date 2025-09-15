@@ -3,8 +3,8 @@ Find below a list of projects that I have been working on.
 
 | Name | Description | Status |
 | ---- | ----------- | ------ |
-| [Switcher API](https://github.com/switcherapi) (+15 repos) | Open source Feature Flag Management that is aimed to be simple and developer-friendly. | Active |
-| [Trackerforce](https://github.com/trackerforce) (4 repos) | Trackerforce is a platform focused on delivering Process Flow Assisted by Real-Time Decision Making | Maintenance |
+| [Switcher API](https://github.com/switcherapi) (org) | Open source Feature Flag Management that is aimed to be simple and developer-friendly. | Active |
+| [Trackerforce](https://github.com/trackerforce) (org) | Trackerforce is a platform focused on delivering Process Flow Assisted by Real-Time Decision Making | Maintenance |
 | [Deno Module: Skimming](https://github.com/petruki/skimming) | Web scraping module for Deno | Maintenance |
 | [Deno Module: Validator4Oak](https://github.com/petruki/validator4oak) | Middleware for Oak framework to validate and sanitize requests | Active |
 | [dotPathQL](https://github.com/trackerforce/dot-path-ql?tab=readme-ov-file) | Java library for dynamically filtering and extracting properties from complex objects using dot-notation paths | Active |
