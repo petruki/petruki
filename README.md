@@ -6,8 +6,8 @@ Find below a list of projects that I have been working on.
 | [Switcher API](https://github.com/switcherapi) (org) | Open source Feature Flag Management that is aimed to be simple and developer-friendly. | Active |
 | [Trackerforce](https://github.com/trackerforce) (org) | Trackerforce is a platform focused on delivering Process Flow Assisted by Real-Time Decision Making | Maintenance |
 | [Deno Module: Skimming](https://github.com/petruki/skimming) | Web scraping module for Deno | Maintenance |
-| [Deno Module: Validator4Oak](https://github.com/petruki/validator4oak) | Middleware for Oak framework to validate and sanitize requests | Active |
-| [dotPathQL](https://github.com/trackerforce/dot-path-ql?tab=readme-ov-file) | Java library for dynamically filtering and extracting properties from complex objects using dot-notation paths | Active |
+| [Deno Module: Validator4Oak](https://github.com/petruki/validator4oak) | Middleware for Oak framework to validate and sanitize requests | Maintenance |
+| [dotPathQL](https://github.com/trackerforce/dot-path-ql?tab=readme-ov-file) | Java library for dynamically filtering and extracting properties from complex objects using dot-notation paths | Maintenance |
 
 # Contributing to
 When I am not creating trouble for myself, I do also contribute to other open-source projects. Here are some of them:
@@ -45,3 +45,4 @@ Not entirely related to my projects, but I think it's worth sharing some of the 
 | [YouTube: Modern Software Engineering - Dave Farley](https://www.youtube.com/@ModernSoftwareEngineeringYT) | Dave Farley and guests talk about Software Development with a focus on Continuous Delivery best practices. |
 | [YouTube: Emily Bache](https://www.youtube.com/@EmilyBache-tech-coach) | Emily Bache talks about TDD and Refactoring. |
 | [YouTube: Mob Mentality Show](https://www.youtube.com/@mobmentalityshow) | Chris Lucian and Austin Chadwick discuss all things agile and product development from a mob programming perspective. |
+| [YouTube: Matt Pocock](https://www.youtube.com/channel/UCswG6FSbgZjbWtdf_hMLaow) | Matt shares great tips on how to improve Agentic Programming with skills. |
